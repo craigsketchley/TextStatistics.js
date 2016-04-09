@@ -233,5 +233,5 @@
 		return new TextStatistics(text);
 	}
 	
-	glob.textstatistics = textStatistics;
+	glob.textStatistics = textStatistics;
 })(this);
